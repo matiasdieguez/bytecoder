@@ -8,8 +8,7 @@
 use_debug false
 use_random_seed 1986
 use_bpm 50
-song_scale = :minor_pentatonic
-song_note = :e4
+
 song_amp = 8
 
 with_fx :compressor do # global FX
@@ -19,7 +18,6 @@ with_fx :compressor do # global FX
     sleep 2 # empty loop used for sync
   end
   
-  
   # live loop start
   coff = 80
   live_loop :loop_47393 do
@@ -27,7 +25,9 @@ with_fx :compressor do # global FX
       sync :loop_main
       use_random_seed 55461
       16.times do
-        sample :bass_dnb_f, cutoff_decay: rand(1), pan: rrand(-1, 1),
+        sample :bass_dnb_f,
+          cutoff_decay: rand(1),
+          pan: rrand(-1, 1),
           cutoff: coff
         sleep [0.5, 0.25, 0.125].choose
         print coff
