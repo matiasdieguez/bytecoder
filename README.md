@@ -2,15 +2,15 @@
 
 ````
 0001 - Blockchain
-0011 - Timestamper
-0100 - Cryptomaster
-0101 - Satoshi
-0110 - Paladar Negro
-0111 - Animalesco
-1000 - Oráculo Rojo
-1001 - Bytecoder
-1010 - Keymaker
-1011 - Extremo
+0010 - Timestamper
+0011 - Cryptomaster
+0100 - Satoshi
+0101 - Paladar Negro
+0110 - Animalesco
+0111 - Oráculo Rojo
+1000 - Bytecoder
+1001 - Keymaker
+1010 - Extremo
 ````
 
 Lyrics &amp; Music as Source Code from Bytecoder <br>
