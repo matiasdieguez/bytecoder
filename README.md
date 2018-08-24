@@ -1,21 +1,21 @@
 # Bytecoder
 
 ````
-0000 - Blockchain
-0001 - Timestamper
-0011 - Cryptomaster
-0100 - Satoshi
-0101 - Paladar Negro
-0110 - Animalesco
-0111 - Oráculo Rojo
-1000 - Bytecoder
-1001 - Keymaker
-1010 - Extremo
+0001 - Blockchain
+0011 - Timestamper
+0100 - Cryptomaster
+0101 - Satoshi
+0110 - Paladar Negro
+0111 - Animalesco
+1000 - Oráculo Rojo
+1001 - Bytecoder
+1010 - Keymaker
+1011 - Extremo
 ````
 
 Lyrics &amp; Music as Source Code from Bytecoder <br>
 
-0001, 1000, 1001 &amp; 1010 composed &amp recorded with SonicPi by Sam Aaron, the Live Coding Music Synth
+0011, 1001, 1010 &amp; 1011 composed &amp recorded with SonicPi by Sam Aaron, the Live Coding Music Synth
 
 ````
 music_as :code 
